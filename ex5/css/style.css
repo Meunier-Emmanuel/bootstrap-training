@@ -9,8 +9,9 @@
     text-align: center;
 }
 
-.blue {
-    background-color: blue;
+p{
+    background-color: rgb(160, 146, 146);
 }
-
-
+.text{
+    text-align: center;
+}
