@@ -1,0 +1,16 @@
+
+.red{
+    background-color: violet;
+}
+
+.box {
+    border: solid 3px black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.blue {
+    background-color: blue;
+}
+
+
